@@ -6,3 +6,10 @@ The app.java file consists of the main class, that brings the system alive. It r
 The search.java file consists of the searching algorithms we have included, we can search by isbn, title, author and publisher
 The sort.java file consists of the sorting algorithm, which sorts the output according to alpahbetical order if you choose to sort by author, or by isbn in the ascending order
 The linkedlist.java file consists of our data structure which we use to store and retrieve the relevant data  
+
+The above system is developed by the following students of the HNDSE23.2F batch: 
+  HNDSE23.2F-006
+  HNDSE23.2F-017
+  HNDSE23.2F-34
+  HNDSE23.2F-43
+  
